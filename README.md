@@ -1,0 +1,1 @@
+This repository contains a MATLAB function (`myFunction.m`) that demonstrates a potential division-by-zero error. The file `bugSolution.m` provides a corrected version of the function.  The bug arises when the input value is 0, causing the `else` condition to result in division by zero. The solution incorporates error handling to prevent this.
